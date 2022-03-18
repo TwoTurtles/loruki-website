@@ -88,7 +88,7 @@ pre {
 
 /* Showcase */
 .showcase {
-  height: 400px;
+  height: 450px;
   background-color: var(--primary-color);
   color: #fff;
   position: relative;
@@ -115,7 +115,7 @@ pre {
 .showcase-form {
   position: relative;
   top: 60px;
-  height: 350px;
+  /* height: 350px; */
   width: 400px;
   padding: 40px;
   z-index: 100;
