@@ -62,19 +62,19 @@
 }
 
 .sm {
-  font-size: 1rem;
+  font-size: clamp(0.75rem, 3vw, 1rem);
 }
 
 .md {
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 3vw, 2rem);
 }
 
 .lg {
-  font-size: 3rem;
+  font-size: clamp(2.5rem, 3vw, 3rem);
 }
 
 .xl {
-  font-size: 4rem;
+  font-size: clamp(3rem, 3vw, 4rem);
 }
 
 .bold {
