@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&family=Poppins:ital,wght@0,700;1,400&display=swap");
 
 :root {
-  --primary-color: #f81a5d;
-  --secondary-color: #1c3fa8;
+  --primary-color: #f24ce1fc;
+  --secondary-color: #eb4db4;
   --light-color: #f4f4f4;
   --dark-color: #002240;
   --success-color: #5cb85c;
@@ -32,7 +32,8 @@ a {
 }
 
 h1,
-h2 {
+h2,
+my-element {
   font-weight: 300;
   line-height: 1.2;
   margin: 10px 0;
