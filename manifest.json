@@ -22,7 +22,7 @@
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#24ce1fc",
+  "theme_color": "#ae14b4",
   "shortcuts": [
     {
       "name": "How's weather today?",
