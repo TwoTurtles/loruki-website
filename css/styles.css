@@ -54,6 +54,17 @@ pre {
   padding: 0.5rem;
 }
 
+/* For standalone display on mobile devices */
+
+button.back {
+  display: none;
+}
+@media (display-mode: standalone) {
+  button.back {
+    display: inline;
+  }
+}
+
 /* Navbar */
 
 .navbar {
