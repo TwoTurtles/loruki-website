@@ -1,4 +1,7 @@
 # loruki-website
+
 Cloud hosting example website
 
-To see live version: https://bp-loruki.netlify.app/
+> Rebuild of fake cloud hosting website 
+
+> Original from Brad Traversy - YouTube video
