@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TwoTurtles/Loruki-website.git"
+    "url": "git+https://github.com/breginapool/Loruki-website.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TwoTurtles/Loruki-website/issues"
+    "url": "https://github.com/breginapool/Loruki-website/issues"
   },
-  "homepage": "https://github.com/TwoTurtles/Loruki-website#readme"
+  "homepage": "https://github.com/breginapool/Loruki-website#readme"
 }
